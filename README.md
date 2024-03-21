@@ -7,7 +7,7 @@
 <h3>JJdonggyun 🥳</h3><br/>
 Hello, I'm Donggyun <br/>
 I am a web developer working towards my goal.<br/>
-We take a step forward today too.
+Today I take another step forward.
 
 
 <br/><br/>
