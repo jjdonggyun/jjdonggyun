@@ -3,12 +3,8 @@
 
 <br/>
 <h3>JJdonggyun 🥳</h3>
-Hello, I'm Donggyun <br/>
-I am a web developer working towards my goal.<br/>
-Today I take another step forward. 
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=16&duration=3000&pause=1000&color=000000&multiline=true&random=false&width=435&height=100&lines=Hello%2C+I'm+Donggyun;I+am+a+web+developer+working+towards+my+goal.;Today+I+take+another+step+forward.">
 
-<br/>
-<br/>
 
 ### ✔ Introduction
 - 끊임없는 학습과 성장을 추구하는 개발자입니다.
