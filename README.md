@@ -21,8 +21,6 @@ Today I take another step forward.
 <!-- <a href="#"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a> -->
  
 
-<br/><br/>
-
 ### 📖 Experiences
 NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자
 
